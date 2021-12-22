@@ -2,7 +2,7 @@
 - 👀 I’m interested in code
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me at linkedin by searchin Golnz Najafdari
+- 📫 How to reach me at linkedin by searchin Golnaz Najafdari
 
 <!---
 Golnaz98/Golnaz98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
